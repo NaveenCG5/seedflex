@@ -23,7 +23,7 @@ Installation
 git clone https://github.com/naveencg5/seedflex.git
 cd seedflex
 pip install -r requirements.txt
-
+```
 
 Usage with Postman
 1. Ensure the API is running locally (for example using `uvicorn test:app --host 0.0.0.0 --port 8000`).
